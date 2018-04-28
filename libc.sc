@@ -1,4 +1,4 @@
-(library (libc libc)
+(library (libc)
   (export 
     c-a64l
     c-abort
